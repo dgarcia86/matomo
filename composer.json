@@ -40,7 +40,6 @@
         }
     ],
     "require": {
-        "php": ">=8.1.0",
         "composer/ca-bundle": "^1.2",
         "composer/semver": "^3.0",
         "davaxi/sparkline": "~2.0",
